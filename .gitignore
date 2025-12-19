@@ -1,6 +1,15 @@
+# Données volumineuses
 data/raw/
 data/processed/
 models/
+
+# Python
 __pycache__/
-.ipynb_checkpoints/
+venv/
 venv_tf
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Fichiers système
+.DS_Store
