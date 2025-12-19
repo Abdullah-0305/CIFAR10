@@ -1,7 +1,9 @@
 # Données volumineuses
 data/raw/
 data/processed/
+data/clusters
 models/
+features.npy
 
 # Python
 __pycache__/
